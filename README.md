@@ -8,7 +8,7 @@ This is a playground repository to explore [terraform](https://www.terraform.io)
 
 ### TODO
 
- - [ ] Docker
+ - [x] [Docker](docker/README.md)
  - [ ] AWS
  - [ ] Modules
  - [ ] Interpolation
